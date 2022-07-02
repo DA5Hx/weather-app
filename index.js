@@ -7,7 +7,7 @@ var images = {
     dust: ['./images/sand.jpg', './images/sand2.jpg', './images/sand3.jpg', './images/sand4.jpg', './images/sand5.jpeg'],
     tornado: ['./images/tornado.webp', './images/tornado.webp', './images/tornado.webp', './images/tornado.webp', './images/tornado.webp'],
     clearsky: ['./images/clearsky.jpg', './images/clearsky2.jpg', './images/clearsky3.jfif', './images/clearsky4.jpg', './images/clearsky5.jpg'],
-    cloudy: ['./images/cloudy.jfif', './images/cloudy2.jfif', './images/cloudy3.jpg', './images/cloudy4.jpg', './images/cloudy5.jpg']
+    cloudy: ['./images/cloudy.jfif', './images/cloudy2.jfif', './images/cloudy3.jpg', './images/cloudy6.jpg', './images/cloudy5.jpg']
 }
 
 const apikey = '8a7efec5e7f95bd9bd48eb564a16316b';
